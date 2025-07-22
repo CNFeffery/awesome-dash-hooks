@@ -1,21 +1,21 @@
 # Awesome Dash Hooks 😎
 
-English | [简体中文](./README-zh_CN.md)
+简体中文 | [English](./README.md)
 
-A collection of awesome things regarding [Dash](https://github.com/plotly/dash) hooks.
+关于 [Dash](https://github.com/plotly/dash) hooks 的精选资源集合。
 
-- [Tutorials](#dash-hooks-tutorials)
-- [Hooks List](#dash-hooks-list)
+- [教程](#dash-hooks-tutorials)
+- [Hooks 列表](#dash-hooks-list)
 
 <div id="dash-hooks-tutorials" />
 
-### Tutorials
+### 教程
 
-- [Writing Dash Plugins using Dash Hooks](https://dash.plotly.com/dash-plugins-using-hooks)
+- [基于 Dash Hooks 编写插件](https://dash.plotly.com/dash-plugins-using-hooks)
 
 <div id="dash-hooks-list" />
 
-### Hooks List
+### Hooks 列表
 
 - [dash-change-cdn-plugin](https://github.com/CNFeffery/dash-change-cdn-plugin)
 - [dash-console-filter-plugin](https://github.com/CNFeffery/dash-console-filter-plugin)
